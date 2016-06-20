@@ -2,3 +2,7 @@ body {
     font-family: "Open Sans", sans-serif;
 }
 
+a:hover {
+    font-weight: bold;
+    color: #000000;
+}
