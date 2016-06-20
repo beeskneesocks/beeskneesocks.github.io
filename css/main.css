@@ -11,6 +11,10 @@ a:hover {
     color: #000000;
 }
 
+h1{
+    font-weight: bold;
+}
+
 h2 {
     color: #C11B17
 }
